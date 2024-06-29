@@ -1,0 +1,77 @@
+{
+    "10": {
+        "text_length": 10,
+        "font_size": 400,
+        "wrap": 10
+    },
+    "20": {
+        "text_length": 20,
+        "font_size": 332,
+        "wrap": 13
+    },
+    "30": {
+        "text_length": 30,
+        "font_size": 280,
+        "wrap": 20
+    },
+    "40": {
+        "text_length": 40,
+        "font_size": 230,
+        "wrap": 20
+    },
+    "50": {
+        "text_length": 50,
+        "font_size": 228,
+        "wrap": 21
+    },
+    "60": {
+        "text_length": 60,
+        "font_size": 230,
+        "wrap": 21
+    },
+    "70": {
+        "text_length": 70,
+        "font_size": 180,
+        "wrap": 27
+    },
+    "80": {
+        "text_length": 80,
+        "font_size": 165,
+        "wrap": 30
+    },
+    "90": {
+        "text_length": 90,
+        "font_size": 145,
+        "wrap": 30
+    },
+    "100": {
+        "text_length": 100,
+        "font_size": 152,
+        "wrap": 28
+    },
+    "110": {
+        "text_length": 110,
+        "font_size": 150,
+        "wrap": 32
+    },
+    "120": {
+        "text_length": 120,
+        "font_size": 148,
+        "wrap": 32
+    },
+    "130": {
+        "text_length": 130,
+        "font_size": 135,
+        "wrap": 35
+    },
+    "140": {
+        "text_length": 140,
+        "font_size": 132,
+        "wrap": 35
+    },
+    "150": {
+        "text_length": 150,
+        "font_size": 120,
+        "wrap": 38
+    }
+}
